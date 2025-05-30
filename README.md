@@ -1,1 +1,1 @@
-Aplikacja do zarządzania wizytami przychodzni połączona z bazą danych
+Aplikacja do zarządzania wizytami w przychodni połączona z bazą danych
